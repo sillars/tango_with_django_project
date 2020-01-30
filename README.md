@@ -1,0 +1,1 @@
+Starting the tango with django project
