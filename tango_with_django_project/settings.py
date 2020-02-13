@@ -123,6 +123,9 @@ USE_TZ = True
 MEDIA_ROOT = MEDIA_DIR
 MEDIA_URL = '/media/'
 
+# Login
+
+LOGIN_URL = 'rango:login'
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/2.2/howto/static-files/
